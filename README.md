@@ -1,10 +1,10 @@
 # Budget Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![screenshot](screenshots/frontpage.png)
-
 ## Description 
 
 An app to track all of your monetary gains and expendetures! Complete with with offline functionality!
+
+DEMO VIDEO LINK: https://drive.google.com/file/d/1kGXgkvueSp6hFXB4BPS0RRfxqDCQm7u5/view
 
 Technologies used:
 - JavaScript
@@ -24,13 +24,11 @@ Technologies used:
 
 ## Installation
 
-Nothing needs to be installed! App link:
+Nothing needs to be installed! App link: https://secret-crag-47557.herokuapp.com/
 
 ## Usage 
 
-Usage
-
-![screenshot](screenshots/charts.png)
+Simply type in the event, specify the amount of money and hit either the add or subtract button to adjust your current balance!
 
 ## Questions?
 
